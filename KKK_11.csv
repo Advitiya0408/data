@@ -1,0 +1,23 @@
+Week_No,Eposide_No,Week_Title,Abhinav_Present,Anushka_Present,Aastha_Present,Arjun_Present,Divyanka_Present,Mahek_Present,Rahul_Present,Sana_Present,Saurabh_Present,Shweta_Present,Varun_Present,Vishal_Present,NIkki_Present,Abhinav_Won_or_Did_not_play,Anushka_Won_or_Did_not_play,Aastha_Won_or_Did_not_play,Arjun_Won_or_Did_not_play,Divyanka_Won_or_Did_not_play,Mahek_Won_or_Did_not_play,Rahul_Won_or_Did_not_play,Sana_Won_or_Did_not_play,Saurabh_Won_or_Did_not_play,Shweta_Won_or_Did_not_play,Varun_Won_or_Did_not_play,Vishal_Won_or_Did_not_play,NIkki_Won_or_Did_not_play,Abhinav_Out,Anushka_Out,Aastha_Out,Arjun_Out,Divyanka_Out,Mahek_Out,Sana_Out,Rahul_Out,Saurabh_Out,Shweta_Out,Varun_Out,Vishal_Out,NIkki_Out
+1,1,Grand Premiere,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,2,Grand Premiere,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,3,K Medal Race,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,4,K Medal Race,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+3,5,Aatyachar Week,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+3,6,Aatyachar Week,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+4,7,Team Week,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,8,Team Week,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,1,1,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+5,9,Best Of Stunts Week,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+5,10,Best Of Stunts Week,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+6,11,Partner Week,1,1,0,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+6,12,Partner Week,1,1,0,1,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+7,13,Rohit Shetty's Dil Ki Bhadas Special,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+7,14,Rohit Shetty's Dil Ki Bhadas Special,1,1,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+8,15,Ticket To Finale Week,1,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+8,16,Ticket To Finale Week,1,0,0,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,1,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+9,17,Semi Finale Week,1,0,0,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0
+9,18,Semi Finale Week,0,0,0,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0
+10,19,Mahasangam,0,0,0,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0
+10,20,Mahasangam,0,0,0,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0
+11,21,Grand Finale Weekend,0,0,0,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0
+11,22,Grand Finale Weekend,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,0,0
